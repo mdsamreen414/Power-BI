@@ -76,8 +76,8 @@ The dashboard provides a high-level view of restaurant distribution, ratings, an
 ---
 
 ## 🔗 Quick Navigation
-- 🖼️ Dashboard Screenshot – *[Click here](https://github.com/mdsamreen414/Power-BI/tree/main/Zomato%20Analytics/Screenshots.md)*
-- 📂 Dataset/Notebook – *[click here](https://github.com/mdsamreen414/Power-BI/blob/main/Zomato%20Analytics/README.md)*
+- 🖼️ *[Dashboard Screenshot](https://github.com/mdsamreen414/Power-BI/tree/main/Zomato%20Analytics/Screenshots.md)*
+- 📂 *[README.MD](https://github.com/mdsamreen414/Power-BI/blob/main/Zomato%20Analytics/README.md)*
 
 ---
 
