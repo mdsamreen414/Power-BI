@@ -46,7 +46,7 @@ This page outlines the **data preparation, modeling, and visualization process**
 ---
 
 ## 🔗 Quick Access
-- 🖼️ [Branch & Bank Details Screenshots](https://github.com/mdsamreen414/Power-BI/blob/main/Bank%20Analytics/Kpi's%20summary.md)
+- 🖼️ [KPI'S SUMMARY](https://github.com/mdsamreen414/Power-BI/blob/main/Bank%20Analytics/Kpi's%20summary.md)
 - 📄 [Dashboard Screenshots](https://github.com/mdsamreen414/Power-BI/tree/main/Bank%20Analytics/SS.md)
 
 ---
