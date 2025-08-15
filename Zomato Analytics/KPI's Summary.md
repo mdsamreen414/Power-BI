@@ -80,8 +80,15 @@ The dashboard provides a high-level view of restaurant distribution, ratings, an
 - 📂 *[README.MD](https://github.com/mdsamreen414/Power-BI/blob/main/Zomato%20Analytics/README.md)*
 
 ---
-
-🧕 **About Me**  
-I’m **Md Samreen**, a Data Analyst skilled in [Excel](https://github.com/mdsamreen414/Excel), [Power BI](https://github.com/mdsamreen414/Power-BI), [MYSQL](https://github.com/mdsamreen414/MYSQL), and [Tableau](https://github.com/mdsamreen414/Tableau).. I build clear, insight-driven dashboards from raw data.I enjoy turning raw data into insightful dashboards and visual stories.  
+🧕**About Me**  
 📍 Hyderabad, India  
-🌐 Portfolio: https://samreenmd414.carrd.co/
+I'm **Md Samreen**, a certified **Data Analyst** with expertise in [**Excel**](https://github.com/mdsamreen414/Excel), [**Power BI**](https://github.com/mdsamreen414/Power-BI), [**MYSQL**](https://github.com/mdsamreen414/MYSQL), and [**Tableau**](https://github.com/mdsamreen414/Tableau). I specialize in turning raw datasets into insightful and interactive dashboards that empower data-driven decisions.  
+
+**Technical Skills**  
+Proficient in advanced Excel functions, data cleaning and transformation, SQL queries, and KPI reporting. Skilled in designing dynamic visualizations using Power BI and Tableau, along with database management in MySQL.  
+
+**Soft Skills**  
+Strong in problem-solving, analytical thinking, and attention to detail. Adaptable, collaborative, and effective in communicating insights to both technical and non-technical audiences.  
+
+**Portfolio**  
+📌 Visit my portfolio:[**Portfolio Website**](https://your-portfolio-link.com)  
