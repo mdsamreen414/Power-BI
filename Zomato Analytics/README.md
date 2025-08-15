@@ -56,7 +56,7 @@ The process included dataset preparation, KPI design, and building an interactiv
 
 
 
-🧕**About Me**  
+## 🧕**About Me**  
 📍 Hyderabad, India  
 I'm **Md Samreen**, a certified **Data Analyst** with expertise in [**Excel**](https://github.com/mdsamreen414/Excel), [**Power BI**](https://github.com/mdsamreen414/Power-BI), [**MYSQL**](https://github.com/mdsamreen414/MYSQL), and [**Tableau**](https://github.com/mdsamreen414/Tableau). I specialize in turning raw datasets into insightful and interactive dashboards that empower data-driven decisions.  
 
